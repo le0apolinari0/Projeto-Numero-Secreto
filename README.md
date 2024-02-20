@@ -26,7 +26,7 @@
 
 ## Autor de projeto
 
-![Leo Apolinario](https://pasteboard.co/adUMECvSX5te.png)
+Leo Apolinario
 
 
 
