@@ -1,3 +1,5 @@
+
+
 <h1>Jogo do número secreto</h1>
 
 <h2> Sobre</h2>
@@ -9,13 +11,22 @@
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
 
 ## Contatos:
 
 <div>
 <a href = "leosantosap@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/leobaldo-apolinario" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/leobaldo-apolinario" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 </div>
+
+## Autor de projeto
+
+![Leo Apolinario](https://pasteboard.co/adUMECvSX5te.png)
 
 
 
